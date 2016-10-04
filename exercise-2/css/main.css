@@ -14,3 +14,26 @@ img {
 
 
 /* Assign styles here */
+.top {
+	top:5px;
+}
+
+.bottom {
+	bottom:5px;
+}
+
+.left {
+	position:left;
+}
+
+.right {
+	position:right;
+}
+
+.middle {
+	text-align:center;
+}
+
+.center {
+	
+}
